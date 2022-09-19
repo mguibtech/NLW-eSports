@@ -3,8 +3,7 @@ import { THEME } from '../../theme';
 
 export const styles = StyleSheet.create({
   container: {
-    marginRight: 24,
-
+    marginRight: 12,
   },
   cover:{
     width: 220,
